@@ -1,0 +1,10 @@
+variables (var ) = el la forma de darle valor a algo para utilizarlo luego.
+
+string= texto o palabra, tambien puede ser un numero, que va siempre ''
+
+la funcion Fuction = nos permite invocar un objeto,se conforma por un codigo al cual se puede recurrir.
+el argumento es lo que va entre parentesis podemos agregar varios colocando coma entre ellos,return es lo que queremos que nos devuelva el terminal.
+
+if (si) nosotros vemos con esto si se comple la condicción, esta puede ser verdadera (true) o falsa (false)
+
+valores voleanos son true o false: determinan si algo es verdadero o falso.
